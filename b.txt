@@ -1,5 +1,5 @@
 created locally
-changed locally
-changed locally, again
+changed locally		--> changed in master
+changed locally, again  --> changed in master
 changed remotely
 changed locally, again

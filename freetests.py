@@ -1,4 +1,4 @@
 def main():
-    print("thi is a python program")
+    print("this is a python program")
 
 main()
